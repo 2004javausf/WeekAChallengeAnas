@@ -88,6 +88,7 @@ public class Driver {
 		
 		
 		// Create another game object
+		System.out.println();
 		System.out.println("Let's create another new video game!");
 		System.out.println("Please enter the game's name: ");
 		gameName = scString.nextLine();
